@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/zmward/logdnaproject#readme",
   "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "express-generator": "^4.13.1",
     "mongoose": "^4.4.19"
   }
 }
