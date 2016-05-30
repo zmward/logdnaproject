@@ -1,0 +1,22 @@
+{
+  "name": "logdnaproject",
+  "version": "1.0.0",
+  "description": "JSON parser for LogDNA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmward/logdnaproject.git"
+  },
+  "author": "Zachary Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmward/logdnaproject/issues"
+  },
+  "homepage": "https://github.com/zmward/logdnaproject#readme",
+  "dependencies": {
+    "mongoose": "^4.4.19"
+  }
+}
